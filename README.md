@@ -1,1 +1,1 @@
-# syllabus
+# Deep Learning for Power Engineers - syllabus
